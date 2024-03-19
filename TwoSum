@@ -13,4 +13,5 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+#I did this surprisingly fast. This was my first problem and I solved it in 5 minutes and it got accepted immediately. The problem is it runs in n^2 time. The question is how do lower the runtime and I have no idea how.
         
